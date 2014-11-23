@@ -1,7 +1,6 @@
 ## The first function creates the inverse of the matrix then moves it to cache.
 ## The second function checks to see if the inverse is already in the cache, and returns the cached value if it is.
 
-
 # To make this as easy as possible to understand and grade, I am attempting to follow the format of the mean example provided as closely as possible
 # As a part of that, I'm closely following the format of comments from there as well.
 # makeCacheMatrix creates a special "matrix", which is really a list containing a function to
